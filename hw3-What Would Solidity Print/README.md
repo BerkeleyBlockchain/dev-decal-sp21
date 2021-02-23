@@ -48,7 +48,6 @@ You called `print(player2)`.
 
 What would Solidity print?
 
-<u>Answer:</u> 0x0000000000000000000000000000000000000000
 
 
 
